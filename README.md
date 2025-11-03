@@ -31,6 +31,14 @@ Solutions and report for the International Computer Science Competition (Pre-Fin
 
 
 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  Problem C.1: Zipf’s Meaning-Frequency Law (8 Points) 
  This problem requires you to read the following recently published scientific article:
 
