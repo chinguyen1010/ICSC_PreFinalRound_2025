@@ -1,5 +1,3 @@
-
-
 import sys
 
 def optimal_cakes(flour: int, sugar: int, eggs: int) -> int:
