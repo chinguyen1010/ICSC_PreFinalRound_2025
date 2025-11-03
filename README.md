@@ -20,13 +20,21 @@ International Computer Science Competition 2025 Pre-FInal Round Submission
 <img width="565" height="415" alt="Screenshot 2025-11-02 at 10 00 11 PM" src="https://github.com/user-attachments/assets/eb32b2a9-3449-4ac7-9180-7d6f75c92766" />
 
 
+
+
+
+
+
+
+
+
+
+
  Problem C.1: Zipf’s Meaning-Frequency Law (8 Points) 
  This problem requires you to read the following recently published scientific article:
 
  A New Formulation of Zipf’s Meaning-Frequency Law through Contextual Diversity by Ryo Nagata and Kumiko Tanaka-Ishii (2025)
-
  Link: https://aclanthology.org/2025.acl-long.744.pdf
-
 
 Answer the following questions related to this article:
 (a) What are the limitations of dictionary-based studies on measuring Zipf’s Meaning-Frequency Law?
@@ -47,9 +55,7 @@ Answer the following questions related to this article:
 Problem C.2: Self-Improvement Capabilities of LLMs (8 Points)
 This problem requires you to read the following recently published scientific article:
 Mind the Gap: Examining the Self-Improvement Capabilities of Large Language Models by Y. Song, H. Zhang, C. Eisenach, S. M. Kakade, D. Foster, and U. Ghai (2025).
-
 Link: https://openreview.net/pdf?id=mtJSMcF3ek
-
 
 Answer the following questions related to this article:
 
