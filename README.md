@@ -1,7 +1,8 @@
 # ICSC_PreFinalRound_2025
+Solutions and report for the International Computer Science Competition (Pre-Final Round 2025)
 
-International Computer Science Competition 2025 Pre-FInal Round Submission
-
+[📄 View the main report (PDF)](./ICSC_Pre_Final_Round_2025.pdf)  
+[📘 View the submission paper (PDF)](./ISCS%20pre-final%20round%202025-%20Chi%20Nguyen.pdf)
 
 
 
