@@ -57,4 +57,4 @@ initial_trust = 10
 max_trust = 20
 
 result = minimize_extraction(query_volumes, initial_trust, max_trust)
-print("Total leaked:", result)
+print("Total leaked:", result) #return output Total leaked: 8 
